@@ -1,0 +1,17 @@
+
+STORM PREDICTION SYSTEM
+Introduction
+Storm prediction system is the project which will improve the accuracy of forecasting storm events in America based on the historical data from 1980-2010 collected by the national government. The expected precision of the system is about 80-85% which is much higher than current system which falls between 70-80%.
+Usage
+The successful system can be used by many organizations depending on their usage. Government can propose the quick evacuation plan in case of emergency or deploy more man power to help affected areas. Companies can also use the system to minimize the effect of storm events in their area like securing their employees, their stock prices, their products and services. Insurance companies can use this system to calculate damage in advance and help a plan to pay money for people after storm events.
+Data
+Historical weather data is needed to build the system model. Weather data like temperature, precipitation and past storm events can be acquired from 
+https://www.ncdc.noaa.gov/cdo-web/datasets
+https://www1.ncdc.noaa.gov/pub/data/normals/1981-2010/
+Solution
+The proposed solution for building system is to collect the changes of weather (temperature, precipitation, wind speed, etc..) before and after a specific storm happened. The data can be divided into many groups based on the American regions. After that, the model of each regions will be built based on collected data. 
+Products
+A system interface which support data input that helps user forecasting storm events in specific areas. Users will need to provide necessary data like temperature, precipitation, wind speed, etc…
+
+
+
